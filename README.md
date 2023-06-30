@@ -37,7 +37,7 @@ I've been learning Graphic designing for 4 years and now am passionate into Web 
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/hr1ddh0#5110" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/hr1ddh0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/hr1ddh0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://facebook.com/gohriddho.page" target="_blank" rel="noreferrer"><img src="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z" width="32" height="32" /></a> 
+<a href="https://facebook.com/gohriddho.page" target="_blank" rel="noreferrer"><img src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/256/social-facebook-icon.png" width="32" height="32" /></a> 
 </p>
 
 ### Badges
