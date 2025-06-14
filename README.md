@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hriddho
 ===============================================================================================================================
 
-Web & Graphic Designer
+Automation & Web Developer
 ----------------------
 
 I've been learning Graphic designing for 4 years and now am passionate into Web developing and designing.
 
 * 🌍  I'm based in Bangladesh
-* ✉️  You can contact me at [hriddhoashikuzzaman.official@gmail.com](mailto:hriddhoashikuzzaman.official@gmail.com)
-* 🚀  I'm currently working on [Heliosphere Studios](http://Heliospherestudios.com)
-* 🧠  I'm learning Full Stack Web Development
-* 🤝  I'm open to collaborating on Web Designs
+* ✉️  You can contact me at [hriddho@automateyourworks.com](mailto:hriddho@automateyourworks.com)
+* 🚀  I've done ui-ux projects for [Heliosphere Studios](http://Heliospherestudios.com)
+* 🧠  I have expertise in Automation & learning Full Stack Web Development
+* 🤝  I'm open to collaborating on Automation & Web Development Projects
 * ⚡  Bravo six, going dark!
 
 ### Skills
@@ -40,7 +40,7 @@ I've been learning Graphic designing for 4 years and now am passionate into Web 
   <a href="https://discord.com/users/hr1ddh0#5110" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
   </a> <a href="https://www.github.com/hr1ddh0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a> <a href="http://www.instagram.com/hr1ddh0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  <a href="https://facebook.com/gohriddho.page" target="_blank" rel="noreferrer"><img src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/256/social-facebook-icon.png" width="35" height="35" /></a> 
+  <a href="https://facebook.com/automatewithriddho" target="_blank" rel="noreferrer"><img src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/256/social-facebook-icon.png" width="35" height="35" /></a> 
 </p>
 
 ### Badges
