@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Automation & Web Developer
 ----------------------
 
-I've been learning Graphic designing for 4 years and now am passionate into Web developing and designing.
+Started my journey with Graphic Designing and now I am passionate into Automation & RPA Developments.
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [hriddho@automateyourworks.com](mailto:hriddho@automateyourworks.com)
