@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hriddho
 ===============================================================================================================================
 
-Automation & Web Developer
+Automation & RPA Developer
 ----------------------
 
 Started my journey with Graphic Designing and now I am passionate into Automation & RPA Developments.
 
 * 🌍  I'm based in Bangladesh
-* ✉️  You can contact me at [hriddho@automateyourworks.com](mailto:hriddho@automateyourworks.com)
+* ✉️  You can contact me at [ash@automateyourworks.com](mailto:ash@automateyourworks.com)
 * 🚀  I've done ui-ux projects for [Heliosphere Studios](http://Heliospherestudios.com)
 * 🧠  I have expertise in Automation & learning Full Stack Web Development
 * 🤝  I'm open to collaborating on Automation & Web Development Projects
@@ -39,7 +39,7 @@ Started my journey with Graphic Designing and now I am passionate into Automatio
 <p align="left"> 
   <a href="https://discord.com/users/hr1ddh0#5110" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
   </a> <a href="https://www.github.com/hr1ddh0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a> <a href="http://www.instagram.com/hr1ddh0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+  </a> <a href="http://www.instagram.com/automatewithhriddho_ig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
   <a href="https://facebook.com/automatewithriddho" target="_blank" rel="noreferrer"><img src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/256/social-facebook-icon.png" width="35" height="35" /></a> 
 </p>
 
