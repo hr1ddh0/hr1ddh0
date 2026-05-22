@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hriddho
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ashikuzzaman Hriddho
 ===============================================================================================================================
 
 Automation & RPA Developer
@@ -37,10 +37,10 @@ Started my journey with Graphic Designing and now I am passionate into Automatio
 ### Socials
 
 <p align="left"> 
-  <a href="https://discord.com/users/hr1ddh0#5110" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+  <a href="https://discord.com/users/hriddhoautomates#5170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
   </a> <a href="https://www.github.com/hr1ddh0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a> <a href="http://www.instagram.com/automatewithhriddho_ig" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  <a href="https://facebook.com/automatewithriddho" target="_blank" rel="noreferrer"><img src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/256/social-facebook-icon.png" width="35" height="35" /></a> 
+  </a> <a href="http://www.instagram.com/hriddhoautomates" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+  <a href="https://facebook.com/hriddhoautomates" target="_blank" rel="noreferrer"><img src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/256/social-facebook-icon.png" width="35" height="35" /></a> 
 </p>
 
 ### Badges
