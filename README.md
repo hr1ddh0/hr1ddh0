@@ -1,48 +1,92 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ashikuzzaman Hriddho
-===============================================================================================================================
+# Hi, I'm Ashikuzzaman Hriddho
 
-Automation & RPA Developer
-----------------------
+## Automation & RPA Developer | Founder of Automate Your Work (AYW)
 
-Started my journey with Graphic Designing and now I am passionate into Automation & RPA Developments.
+I build practical automation systems that cut manual work for businesses worldwide. My focus: workflow orchestration, browser automation, web scraping, API integrations, and self hosted infrastructure.
 
-* 🌍  I'm based in Bangladesh
-* ✉️  You can contact me at [ash@automateyourworks.com](mailto:ash@automateyourworks.com)
-* 🚀  I've done ui-ux projects for [Heliosphere Studios](http://Heliospherestudios.com)
-* 🧠  I have expertise in Automation & learning Full Stack Web Development
-* 🤝  I'm open to collaborating on Automation & Web Development Projects
-* ⚡  Bravo six, going dark!
+* 🌍 Based in Bangladesh
+* ✉️ Reach me at [ash@automateyourworks.com](mailto:ash@automateyourworks.com)
+* 🏗️ Founder & CTO at [Automate Your Work](https://automateyourworks.com)
+* 🤝 Open to collaborating on automation, RPA, scraping, and integration projects
+* ⚡ Bravo six, going dark
 
-### Skills
-
+### Automation & RPA Platforms
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
-
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="36" height="36" alt="n8n" />
+<img src="https://cdn.simpleicons.org/make/6D00CC" width="36" height="36" alt="Make" />
+<img src="https://apify.com/img/apify-logo/wordmark.svg" width="90" height="40" alt="Apify" />
+<img src="https://cdn.prod.website-files.com/665d9094e3e27b31b62b3653/665eeab785918be03a68ecc4_logo.png" height="36" alt="ZeroWork" />
+<img src="https://avatars.githubusercontent.com/u/49553031?s=200&v=4" height="50" alt="Robomotion" />
 </p>
 
+### Languages
+
+<p align="left">
+<img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="Python" />
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" alt="JavaScript" />
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" height="36" alt="TypeScript" />
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="36" height="36" alt="HTML5" />
+<img src="https://cdn.simpleicons.org/css3/1572B6" width="36" height="36" alt="CSS3" />
+</p>
+
+### Frameworks & Runtime
+
+<p align="left">
+<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="36" height="36" alt="Node.js" />
+<img src="https://cdn.simpleicons.org/nextdotjs/000000" width="36" height="36" alt="Next.js" />
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36" alt="React" />
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="36" height="36" alt="Tailwind CSS" />
+</p>
+
+### Databases & Backend
+
+<p align="left">
+<img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="36" height="36" alt="Supabase" />
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" height="36" alt="PostgreSQL" />
+</p>
+
+### Infrastructure & DevOps
+
+<p align="left">
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker" />
+<img src="https://cdn.simpleicons.org/nginx/009639" width="36" height="36" alt="Nginx" />
+<img src="https://cdn.simpleicons.org/cloudflare/F38020" width="36" height="36" alt="Cloudflare" />
+<img src="https://cdn.simpleicons.org/ubuntu/E95420" width="36" height="36" alt="Ubuntu" />
+<img src="https://cdn.simpleicons.org/linux/FCC624" width="36" height="36" alt="Linux" />
+<img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="36" height="36" alt="Bash" />
+</p>
+
+### Tools
+
+<p align="left">
+<img src="https://cdn.simpleicons.org/git/F05032" width="36" height="36" alt="Git" />
+<img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub" />
+<img src="https://cdn.simpleicons.org/googlesheets/34A853" width="36" height="36" alt="Google Sheets" />
+<img src="https://cdn.simpleicons.org/slack/4A154B" width="36" height="36" alt="Slack" />
+<img src="https://cdn.simpleicons.org/notion/000000" width="36" height="36" alt="Notion" />
+<img src="https://cdn.simpleicons.org/postman/FF6C37" width="36" height="36" alt="Postman" />
+</p>
 
 ### Socials
 
-<p align="left"> 
-  <a href="https://discord.com/users/hriddhoautomates#5170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-  </a> <a href="https://www.github.com/hr1ddh0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a> <a href="http://www.instagram.com/hriddhoautomates" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-  <a href="https://facebook.com/hriddhoautomates" target="_blank" rel="noreferrer"><img src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/256/social-facebook-icon.png" width="35" height="35" /></a> 
+<p align="left">
+  <a href="https://discord.com/users/hriddhoautomates" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="32" height="32" alt="Discord" />
+  </a>
+  <a href="https://www.github.com/hr1ddh0" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/hriddhoautomates" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" alt="Instagram" />
+  </a>
+  <a href="https://facebook.com/hriddhoautomates" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/facebook/0866FF" width="32" height="32" alt="Facebook" />
+  </a>
 </p>
 
-### Badges
+### Stats
 
-<a href="https://github.com/hr1ddh0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hr1ddh0&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/hr1ddh0">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hr1ddh0&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
